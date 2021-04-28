@@ -34,14 +34,14 @@ settings = {
         'long_opt': '--simplified-water'
     },
 
-    2: {
-        'directory': 'ne_110m_admin_0_boundary_lines_land',
-        'url': 'https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_boundary_lines_land.zip',  # noqa
-        
-        'type': 'zip_dir',
-        'shp_basename': ['ne_110m_admin_0_boundary_lines_land'],
-        'long_opt': '--ne-admin'
-    },
+  #  2: {
+  #      'directory': 'ne_110m_admin_0_boundary_lines_land',
+  #      'url': 'https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_boundary_lines_land.zip',  # noqa
+  #      
+  #      'type': 'zip_dir',
+  #      'shp_basename': ['ne_110m_admin_0_boundary_lines_land'],
+  #      'long_opt': '--ne-admin'
+  #  },
 
     3: {
         'directory': 'water-polygons-split-3857',
