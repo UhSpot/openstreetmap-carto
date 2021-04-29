@@ -36,7 +36,7 @@ settings = {
 
     2: {
         'directory': 'ne_110m_admin_0_boundary_lines_land',
-        'url': "https://uhspotfiles.blob.core.windows.net/osm/ne_110m_admin_0_boundary_lines_land.zip?sp=r&st=2021-04-29T13:51:35Z&se=2021-04-29T21:51:35Z&spr=https&sv=2020-02-10&sr=b&sig=g4rISIjpYE%2F0mGUDMCPGRcxv%2FzkXF7sA7Rw6ppYuGR0%3D",  # noqa
+        'url': "https://uhspotfiles.blob.core.windows.net/osm/ne_110m_admin_0_boundary_lines_land.zip",  # noqa
         'type': 'zip_dir',
         'shp_basename': ['ne_110m_admin_0_boundary_lines_land'],
         'long_opt': '--ne-admin'
